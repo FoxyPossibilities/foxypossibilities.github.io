@@ -12,9 +12,9 @@ Install [Hugo](https://gohugo.io/).
 Run the following to get the source of the website:
 
 ```sh
-git clone --recursive https://github.com/FoxyPossibilities/foxypossibilities.github.io.git
-cd foxypossibilities.github.io
-git remote set-url --push git@github.com:FoxyPossibilities/foxypossibilities.github.io.git
+git clone --recursive https://github.com/FoxyPossibilities/foxypossibilities.github.io.git foxypossibilities
+cd foxypossibilities
+git remote set-url --push origin git@github.com:FoxyPossibilities/foxypossibilities.github.io.git
 ```
 
 The `--recursive` option will automatically clone any git submodules, which is
