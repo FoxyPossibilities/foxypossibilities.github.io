@@ -1,16 +1,9 @@
----
-date  : 2016-08-25
-title : Deathhawk
-draft : true
-type  : "post"
-description: >
-
-  So I am not one that is normally nervous about drastic hair changes as I have
-  gone through a few of my own before.  However, my most recent hair adventure
-  did make me nervous for a little bit. I will start with some back story that
-  lead up to my current style.
-
----
++++
+date  = "2016-08-25"
+title = "Deathhawk"
+draft = true
+type  = "post"
++++
 
 So I am not one that is normally nervous about drastic hair changes as I have
 gone through a few of my own before.  However, my most recent hair adventure did

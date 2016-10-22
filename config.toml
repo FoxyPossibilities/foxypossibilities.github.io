@@ -1,0 +1,90 @@
+baseurl = "http://www.foxypossibilities.com"
+title   = "Foxy Possibilities"
+
+languageCode   = "en-US"
+metaDataFormat = "yaml"
+
+theme = "hugo-foxypossibilities-theme"
+
+copyright = "© Kiba Fox and Madame Fox. All rights reserved."
+
+
+[[menu.main]]
+Name       = "Home"
+#Pre        = "<span class='fi-home'></i>"
+Identifier = "home"
+URL        = "/"
+Weight     = 0
+
+[[menu.main]]
+Name       = "Tech"
+Identifier = "tech"
+URL        = "/tech"
+Weight     = 10
+
+[[menu.main]]
+Name       = "Makeup"
+Identifier = "makeup"
+URL        = "/makeup"
+Weight     = 20
+
+[[menu.main]]
+Name       = "Reviews"
+Parent     = "makeup"
+Identifier = "makeup-reviews"
+URL        = "/makeup/reviews"
+Weight     = 21
+
+[[menu.main]]
+Name       = "Tutorials"
+Parent     = "makeup"
+Identifier = "makeup-tutorials"
+URL        = "/makeup/tutorials"
+Weight     = 22
+
+[[menu.main]]
+Name       = "Body Paint"
+Parent     = "makeup"
+Identifier = "makeup-body-paint"
+URL        = "/makeup/body-paint"
+Weight     = 23
+
+[[menu.main]]
+Name       = "Fashion"
+Identifier = "fashion"
+URL        = "/fashion"
+Weight     = 30
+
+[[menu.main]]
+Name       = "Hair"
+Parent     = "fashion"
+Identifier = "fashion-hair"
+URL        = "/fashion/hair"
+Weight     = 31
+
+[[menu.main]]
+Name       = "Masks"
+Parent     = "fashion"
+Identifier = "fashion-masks"
+URL        = "/fashion/masks"
+Weight     = 32
+
+[[menu.main]]
+Name       = "Jewelry"
+Parent     = "fashion"
+Identifier = "fashion-jewelry"
+URL        = "/fashion/jewelry"
+Weight     = 33
+
+[[menu.main]]
+Name       = "Costumes"
+Parent     = "fashion"
+Identifier = "fashion-costumes"
+URL        = "/fashion/costumes"
+Weight     = 34
+
+[[menu.main]]
+Name       = "About"
+Identifier = "about"
+URL        = "/about"
+Weight     = 40
