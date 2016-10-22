@@ -2,10 +2,7 @@
 author   = "Kiba Fox"
 date     = "2016-09-17"
 draft    = true
-keywords = ["key", "words"]
-tags     = ["one", "two"]
 title    = "Let's build a social MUD"
-topics   = ["topic 1"]
 type     = "post"
 +++
 

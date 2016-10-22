@@ -1,11 +1,8 @@
 +++
 author   = "Kiba Fox"
-date     = "2016-08-15T20:53:59-04:00"
+date     = "2016-08-15"
 draft    = true
-keywords = ["key", "words"]
-tags     = ["one", "two"]
 title    = "How I install NixOS"
-topics   = ["topic 1"]
 type     = "post"
 +++
 

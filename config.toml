@@ -1,13 +1,11 @@
 baseurl = "http://www.foxypossibilities.com"
 title   = "Foxy Possibilities"
-
 languageCode   = "en-US"
-metaDataFormat = "yaml"
-
 theme = "hugo-foxypossibilities-theme"
-
 copyright = "© Kiba Fox and Madame Fox. All rights reserved."
 
+[taxonomies]
+fashion = "fashion"
 
 [[menu.main]]
 Name       = "Home"

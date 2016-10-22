@@ -1,8 +1,10 @@
 +++
-date  = "2016-08-25"
-title = "Deathhawk"
-draft = true
-type  = "post"
+author   = "Madame Fox"
+date     = "2016-08-25"
+draft    = true
+title    = "Deathhawk"
+type     = "post"
+fashion  = "Hair"
 +++
 
 So I am not one that is normally nervous about drastic hair changes as I have
