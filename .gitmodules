@@ -1,0 +1,3 @@
+[submodule "themes/hugo-foxypossibilities-theme"]
+	path = themes/hugo-foxypossibilities-theme
+	url = git@github.com:FoxyPossibilities/hugo-foxypossibilities-theme.git

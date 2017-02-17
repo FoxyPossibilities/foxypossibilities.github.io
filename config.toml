@@ -7,12 +7,12 @@ copyright = "© Kiba Fox and Madame Fox. All rights reserved."
 [taxonomies]
 fashion = "fashion"
 
-[[menu.main]]
-Name       = "Home"
+#[[menu.main]]
+#Name       = "Home"
 #Pre        = "<span class='fi-home'></i>"
-Identifier = "home"
-URL        = "/"
-Weight     = 0
+#Identifier = "home"
+#URL        = "/"
+#Weight     = 0
 
 [[menu.main]]
 Name       = "Tech"
